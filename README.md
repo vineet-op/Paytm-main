@@ -1,3 +1,5 @@
+## A paytm like applicatuon were users can send or receive and perform transaction on dummy money.
+
 ## Signup
 
 ![Signup Page](/frontend/images/Signup.png)
