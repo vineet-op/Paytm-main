@@ -1,4 +1,4 @@
-## A paytm like applicatuon were users can send or receive and perform transaction on dummy money.
+## A Paytm like application were users can send or receive and perform transactions on dummy money.
 
 ## Signup
 
